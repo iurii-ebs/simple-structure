@@ -1,0 +1,3 @@
+# put your libraries here
+# version is required
+Django==2.0.4
