@@ -9,5 +9,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('common/', include('apps.common.urls')),
     path('first-app/', include('apps.first_app.urls')),
-    path('auth-token/',  rest_views.obtain_auth_token),
+    path('auth-token',  rest_views.obtain_auth_token),  # auth endpoint
 ]
