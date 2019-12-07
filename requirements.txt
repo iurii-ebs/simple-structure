@@ -4,3 +4,5 @@ Django==2.0.4
  # rest framework libs
 djangorestframework==3.10.3
 django-cors-headers==2.2.0
+# JWT libs
+djangorestframework-simplejwt==4.4.0
