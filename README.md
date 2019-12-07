@@ -1,4 +1,4 @@
-# simple-structure
+# Simple structure
 Simple structure of project on Django
 
 # virtualenv
@@ -17,3 +17,7 @@ Simple structure of project on Django
  - create application in specific folder
 
     python manage.py startapp common apps/common # you should create empty folder
+
+
+# Payload
+ - pip install -r requirements.txt # installing libraries 
